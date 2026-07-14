@@ -1,86 +1,276 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Maheshwaree+Talekar;Data+%26+AI+Engineer;Building+scalable+systems!" alt="Typing SVG" />
+
+# Hi, I'm Maheshwaree Talekar 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=850&lines=Aspiring+Data+Engineer;Building+Scalable+Data+%26+AI+Systems;Distributed+Systems+%7C+Machine+Learning;Generative+AI+%7C+Data+Engineering" />
+
+<br>
+
+<a href="https://linkedin.com/in/maheshwaree-talekar-88862b307">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:maheshwareetalekar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Maheshwaree-02&style=for-the-badge&color=2563EB"/>
+
 </div>
 
-<br/>
+---
+
+# 👋 About Me
+
+I'm a final-year **Information Technology** student passionate about building **production-ready data platforms**, **distributed systems**, and **AI-powered applications**.
+
+I enjoy designing software that transforms raw data into scalable pipelines, intelligent applications, and reliable systems. My interests lie at the intersection of **Data Engineering**, **Artificial Intelligence**, and **Machine Learning**, where software engineering meets data infrastructure.
+
+Rather than building isolated machine learning models, I enjoy creating complete end-to-end systems—from data ingestion and transformation to intelligent decision-making applications.
+
+> **"Build systems that move data, scale reliably, and enable intelligent decisions."**
+
+---
+
+# 🚀 What I'm Currently Building
+
+I'm currently focused on four projects that represent different areas of modern Data & AI Engineering.
+
+---
+
+## 🧠 ResearchPilot
+
+**An AI-powered Multi-Agent Research Assistant**
+
+ResearchPilot is a production-inspired research platform capable of autonomously planning research tasks, retrieving information from multiple sources, synthesizing evidence, and generating structured reports using multiple collaborating AI agents.
+
+### Highlights
+
+- Multi-Agent Architecture
+- LangGraph Workflows
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Vector Search
+- LLM Tool Calling
+- Autonomous Planning
+- Research Report Generation
+
+---
+
+## 🚨 Fraud Intelligence Platform
+
+**Real-Time Fraud Detection & Investigation Platform**
+
+An enterprise-scale fraud intelligence platform inspired by modern fintech architectures. The system combines streaming data, machine learning, and AI agents to detect fraudulent transactions and assist investigators with real-time risk analysis.
+
+### Highlights
+
+- Event-Driven Architecture
+- Streaming Data Pipelines
+- Machine Learning Risk Scoring
+- AI Investigation Assistant
+- Feature Engineering
+- End-to-End Data Pipeline
+- Monitoring & Observability
+
+---
+
+## ⚽ Football Analytics Platform
+
+**Interactive Football Analytics & Match Prediction**
+
+A football analytics platform built to compare player performance, visualize statistics, and predict match outcomes using machine learning.
+
+### Highlights
+
+- Interactive Dashboard
+- Player Comparison
+- Radar Charts
+- Match Prediction
+- Performance Analytics
+- Data Visualization
+
+---
+
+# 🎯 Current Learning
+
+I'm continuously expanding my knowledge in:
+
+- Distributed Data Processing
+- Data Engineering
+- Streaming Architectures
+- Machine Learning Systems
+- Generative AI
+- Agentic AI
+- System Design
+- Cloud Data Platforms
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
+</p>
+
+---
+
+## ⚙️ Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker"/>
+</p>
+
+- SQL
+- PySpark
+- Apache Spark
+- Pandas
+- NumPy
+- Databricks
+- Delta Lake
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+- PostgreSQL
+- MySQL
+
+---
+
+## 🤖 AI & Machine Learning
+
+- Scikit-Learn
+- TensorFlow
+- LangChain
+- LangGraph
+- Hugging Face
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+
+---
+
+## ☁️ Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+</p>
+
+- AWS
+- Docker
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📊 Analytics
+
+- Power BI
+- Tableau
+- Microsoft Excel
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧠 **ResearchPilot** | Multi-Agent AI Research Assistant powered by LangGraph and RAG |
+| 🚨 **Fraud Intelligence Platform** | Enterprise-inspired real-time fraud detection platform |
+| 🏥 **Brain Tumor Localization** | Deep Learning solution for MRI tumor localization |
+| ⚽ **Football Analytics Platform** | ML-powered football analytics dashboard |
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
-  <em>"Build systems, not just models." 🚀</em>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maheshwaree-02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=Maheshwaree-02&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<br/>
+<br>
 
-### 💫 About Me
-I'm a final-year Information Technology student passionate about **Data Engineering, AI/ML, and Generative AI**. I enjoy building intelligent systems that transform raw data into meaningful insights and automate complex workflows. My interests lie at the intersection of data engineering, machine learning, and AI-powered applications, with a focus on designing scalable, production-ready solutions.
-
-<br/>
-
-### 🕹️ Interactive Dashboard
-
-<details>
-  <summary><b>💡 What I'm currently working on (Click to expand)</b></summary>
-  <br/>
-  <ul>
-    <li>🤖 Building <b>ResearchPilot</b>, a multi-agent AI research assistant using LangGraph, RAG, and LLMs</li>
-    <li>⚡ Exploring modern data engineering with <b>Databricks, PySpark, Delta Lake, and cloud technologies</b></li>
-    <li>📊 Developing end-to-end ML and analytics projects from data ingestion to deployment</li>
-    <li>📚 Strengthening my knowledge of distributed systems, big data, and recommendation systems</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🌱 What I'm currently learning (Click to expand)</b></summary>
-  <br/>
-  <ul>
-    <li>Advanced Data Engineering & Distributed Data Processing</li>
-    <li>MLOps & LLMOps</li>
-    <li>Agentic AI Systems</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🎯 My Career Goal (Click to expand)</b></summary>
-  <br/>
-  To build scalable AI and data platforms that solve real-world problems while growing into a <b>Data Engineer / AI Engineer</b> working on modern cloud-native data systems.
-</details>
-
-<br/>
-
-### 🛠️ Tech Stack
-
-**Languages** <br/>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Data Engineering** <br/>
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI & Machine Learning** <br/>
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-1C3C3C?style=for-the-badge&logo=xgboost&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
-
-**Cloud & DevOps** <br/>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Maheshwaree-02&theme=calm&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Maheshwaree-02&theme=calm&hide_border=false" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maheshwaree-02&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshwaree-02&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<br/>
+---
 
-### 🌐 Connect with me
+# 📊 Contribution Graph
+
 <div align="center">
-  <a href="https://linkedin.com/in/maheshwaree-talekar-88862b307"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:maheshwareetalekar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshwaree-02&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
-<br/>
+---
+
+# 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maheshwaree-02&icon=0&color=0" alt="Profile Views" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maheshwaree-02&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 💡 Interests
+
+Outside of building projects, I enjoy learning about:
+
+- Data Engineering
+- Distributed Systems
+- Artificial Intelligence
+- Machine Learning Infrastructure
+- Generative AI
+- Software Architecture
+- System Design
+
+---
+
+# 🎯 Career Goal
+
+I'm working toward becoming a **Data Engineer** specializing in building scalable data infrastructure while leveraging AI to solve real-world problems.
+
+My goal is to design systems that efficiently move, transform, and operationalize data—enabling intelligent applications at scale.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/maheshwaree-talekar-88862b307">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:maheshwareetalekar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Transforming raw data into scalable systems and intelligent solutions."*
+
 </div>
