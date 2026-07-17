@@ -120,7 +120,7 @@ I'm continuously expanding my knowledge in:
 ## ⚙️ Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=pyspark"/>
 </p>
 
 - SQL
@@ -173,7 +173,6 @@ I'm continuously expanding my knowledge in:
 ## 📊 Analytics
 
 - Power BI
-- Tableau
 - Microsoft Excel
 
 ---
@@ -184,7 +183,6 @@ I'm continuously expanding my knowledge in:
 |---------|-------------|
 | 🧠 **ResearchPilot** | Multi-Agent AI Research Assistant powered by LangGraph and RAG |
 | 🚨 **Fraud Intelligence Platform** | Enterprise-inspired real-time fraud detection platform |
-| 🏥 **Brain Tumor Localization** | Deep Learning solution for MRI tumor localization |
 | ⚽ **Football Analytics Platform** | ML-powered football analytics dashboard |
 
 ---
@@ -214,16 +212,6 @@ I'm continuously expanding my knowledge in:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshwaree-02&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maheshwaree-02&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
 </div>
 
